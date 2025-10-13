@@ -1,5 +1,3 @@
-Wah mantap boss 😎 — berarti kita bikin versi aesthetic homelabber yang punya vibe clean tapi keren, pakai sedikit emoji, divider rapi, dan badge biar kelihatan hidup.
-Gaya markdown-nya modern, cocok buat profil GitHub yang lo buka tiap hari dan langsung “gue banget” vibes-nya.
 
 
 ---
@@ -30,9 +28,9 @@ Buatku, homelab bukan cuma server di pojokan rumah — tapi tempat buat belajar,
 ### 🧩 Setup & Infrastruktur
 
 **🏠 Core Network**
-- **Router:** MikroTik RB750Gr3 (VLAN10/11/12/88/99)  
-- **Switch:** HPE Managed (LAG, trunk, segmentation)  
-- **Wi-Fi:** TP-Link EAP225-Outdoor (OpenWrt + DSA VLAN trunk)
+- **Router:** MikroTik RB750Gr3 
+- **Switch:** HPE Managed 
+- **Wi-Fi:** TP-Link EAP225-Outdoor (OpenWrt)
 
 **🧱 Server & Storage**
 - Docker host (multi-container stack)
@@ -41,9 +39,7 @@ Buatku, homelab bukan cuma server di pojokan rumah — tapi tempat buat belajar,
 - UPS + relay otomatis buat power management
 
 **⚙️ Automasi**
-- Home Assistant + ESPHome  
-- Zigbee Smart Switch + Sensor LoRa custom  
-- Automasi energi pakai input_number & timer helper
+- Home Assistant + ESPHome + Zigbee
 
 ---
 
@@ -55,17 +51,13 @@ Buatku, homelab bukan cuma server di pojokan rumah — tapi tempat buat belajar,
 | Automation | Home Assistant, ESPHome, Node-RED |
 | Storage | NFS, Samba, Syncthing |
 | Dev & Build | Node.js, Python, GitHub Actions |
-| Monitoring | Grafana, Prometheus, Netdata |
+
 
 ---
 
 ### 📦 Project Pilihan
 
-🌐 **lunyun-page** — File repo berbasis Node.js + HTML template via env var  
-📜 **InvoiceShelf** — Self-hosted invoicing system berbasis Docker Compose  
-⚙️ **Odoo Stack** — ERP modular multi-container (v18/v19)  
-🧾 **StirlingPDF** — PDF OCR & processing pipeline  
-🔁 **Syncthing Node** — Private sync server antar device
+🌐 **lunyun-page** — File repo berbasis Node.js + HTML 
 
 ---
 
@@ -78,21 +70,11 @@ Setiap stack baru adalah eksperimen; setiap log error adalah puzzle.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
 
 ### 🌐 Temukan Aku
 
 <p align="center">
-  <a href="https://hub.docker.com/"><img src="https://img.shields.io/badge/Docker%20Hub-Nefla-blue?logo=docker"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-@nefla__lab-blue?logo=telegram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-green?logo=gmail"></a>
+  <a href="https://hub.docker.com/u/neflalabs"><img src="https://img.shields.io/badge/Docker%20Hub-Nefla-blue?logo=docker"></a>
 </p>
 
 ---
@@ -102,10 +84,4 @@ Setiap stack baru adalah eksperimen; setiap log error adalah puzzle.
   <br>
   <i>#SelfHostEverything #Homelab #Automation</i>
 </p>
-
-
----
-
-Kalau mau, aku bisa bantu generate preview badge links yang real (misalnya username GitHub lo biar stats-nya jalan, link Docker Hub, Telegram, dsb).
-Kau mau aku isi semua badge-nya dengan link real milik lo biar langsung bisa copy-paste ke profil?
 
