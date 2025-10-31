@@ -25,24 +25,6 @@ Buatku, homelab bukan cuma server di pojokan rumah — tapi tempat buat belajar,
 
 ---
 
-### 🧩 Setup & Infrastruktur
-
-**🏠 Core Network**
-- **Router:** MikroTik RB750Gr3 
-- **Switch:** HPE Managed 
-- **Wi-Fi:** TP-Link EAP225-Outdoor (OpenWrt)
-
-**🧱 Server & Storage**
-- Docker host (multi-container stack)
-- NFS + Samba untuk volume sharing  
-- Syncthing buat sync antar device lokal-only  
-- UPS + relay otomatis buat power management
-
-**⚙️ Automasi**
-- Home Assistant + ESPHome + Zigbee
-
----
-
 ### 🧠 Stack yang Sering Kupakai
 
 | Area | Tools / Teknologi |
@@ -57,7 +39,7 @@ Buatku, homelab bukan cuma server di pojokan rumah — tapi tempat buat belajar,
 
 ### 📦 Project Pilihan
 
-🌐 **lunyun-page** — File repo berbasis Node.js + HTML 
+🌐 **c4ignite** — All in one tools development berbasis docker buat CodeIgniter 4 ala-ala Laravel-Sail 
 
 ---
 
