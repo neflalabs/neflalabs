@@ -25,18 +25,6 @@ Buatku, homelab bukan cuma server di pojokan rumah — tapi tempat buat belajar,
 
 ---
 
-### 🧠 Stack yang Sering Kupakai
-
-| Area | Tools / Teknologi |
-|------|--------------------|
-| Container | Docker, Docker Compose, Portainer |
-| Automation | Home Assistant, ESPHome, Node-RED |
-| Storage | NFS, Samba, Syncthing |
-| Dev & Build | Node.js, Python, GitHub Actions |
-
-
----
-
 ### 📦 Project Pilihan
 
 🌐 **c4ignite** — All in one tools development berbasis docker buat CodeIgniter 4 ala-ala Laravel-Sail 
