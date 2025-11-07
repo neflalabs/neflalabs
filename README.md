@@ -8,7 +8,7 @@
 <h1 align="center">🧠 Nefla's Homelab</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Arch%20%7C%20Debian-blue?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Fedora%20%7C%20Debian-blue?logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-Self--hosted-blue?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Home%20Assistant-Automation-brightgreen?logo=homeassistant&logoColor=white">
   <img src="https://img.shields.io/badge/Network-MikroTik%20%7C%20OpenWrt-orange?logo=ubiquiti&logoColor=white">
